@@ -5,7 +5,7 @@ const Hero = () => {
     <div className="flex items-center justify-center flex-col space-y-4">
       <img
         className="h-52 w-52 border-blue-700 rounded-full"
-        src="src/assets/elonbhai.jpg"
+        img src="src/assets/elonbhai.jpg"
         alt="Elon"
       />
 
