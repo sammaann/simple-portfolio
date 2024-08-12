@@ -5,8 +5,8 @@ const Hero = () => {
     <div className="flex items-center justify-center flex-col space-y-4">
       <img
         className="h-52 w-52 border-blue-700 rounded-full"
-        src="src/assets/elonbhai.webp"
-        alt="Image aayena"
+        src="src/assets/elonbhai.jpg"
+        alt="Elon"
       />
 
       <p className="font-extrabold text-4xl">Hey, I'm Samman</p>
